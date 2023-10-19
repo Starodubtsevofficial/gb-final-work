@@ -1,0 +1,16 @@
+{
+	"premises": "$DATA/profile_facts_1.dat",
+	"rules": "$DATA/profile_rules_1.yaml",
+	"scenarios": "$DATA/profile_scenarios_1.yaml",
+
+	"p_dodge1": 0.0,
+	"p_dodge2": 0.5,
+	"p_confab": 0.5,
+
+	"confabulator_enabled": true,
+	
+	"constants": {
+		"gender": "ЖЕН",
+		"name_nomn": "Вика"
+	}
+}	
